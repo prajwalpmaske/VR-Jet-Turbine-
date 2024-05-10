@@ -23,6 +23,7 @@ Mobile OutPut
 ![Screenshot_20240508_081003_Jet Turbine](https://github.com/prajwalpmaske/VR-Jet-Turbine-/assets/114854119/8affcbb0-c4a8-485d-9307-8fca916e97ab)
 
 
-![Screenshot_20240508_081003_Jet Turbine](https://github.com/prajwalpmaske/VR-Jet-Turbine-/assets/114854119/d3b89c5c-ed56-43f3-91f6-59e62cbe772e)
+![Screenshot_20240508_080943_Jet Turbine](https://github.com/prajwalpmaske/VR-Jet-Turbine-/assets/114854119/e8a9dc82-66c6-4fdc-9c25-9c92efcd0495)
+
 
 
