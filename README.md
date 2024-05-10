@@ -1,7 +1,8 @@
 # VR-Jet-Turbine-
 
 Drive Link : https://drive.google.com/drive/folders/1S01uo_vXnK-k9mlsgiA2sXuKLSzhYX5J?usp=sharing
- 
+
+ My Drive link contains a zip file of a jet turbine, a Unity asset of the jet turbine, and an Android APK app file.
 
 Visit the Unity Website: Go to the official Unity website at unity.com.
 
